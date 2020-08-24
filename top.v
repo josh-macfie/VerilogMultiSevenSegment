@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 module top(
     input mclk,
-	 output wire 	[7:0]	seg,
+	 output wire 	[7:0] seg,
 	 output wire	[3:0] an
     );
 
